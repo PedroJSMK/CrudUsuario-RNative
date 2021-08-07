@@ -1,0 +1,6 @@
+module Pods_CrudUsuario_CrudUsuarioTests {
+  umbrella header "Pods-CrudUsuario-CrudUsuarioTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
